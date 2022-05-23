@@ -1,9 +1,6 @@
 name: skeleton-finder
 contributions:
   commands:
-    - id: skeleton-finder.say_hi
-      title: Say hello, world!
-      python_name: napari_hello:show_hello_message
     - id: skeleton-finder.mainalgo
       title: MainAlgo
       python_name: skeleton_finder.mywidget:MainWidget
