@@ -12,6 +12,10 @@ A Napari plugin for skeleton computation on 2D gray-scale images. Currently supp
 ## Usage
 Install with
 
+```
+pip install skeleton-finder
+```
+
 Open the plugin widget and select an image layer.
 
 Adjust parameters and find skeleton.
