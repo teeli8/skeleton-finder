@@ -9,7 +9,7 @@ A Napari plugin for skeleton computation on 2D gray-scale images. Currently supp
 4. Skeleton colored by distance to the boundary
 5. Only support single png or jpg images
 
-![example](imgs/horse.png)
+![example](https://github.com/teeli8/skeleton-finder/raw/main/imgs/horse.png)
 
 
 ## Usage
